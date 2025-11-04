@@ -112,7 +112,7 @@ hackathon-project/
 ## 💬 Communication
 
 Join our Discord for updates:  
-👉 [https://discord.gg/CWgN5d2PMV](#)
+👉 [https://discord.gg/CWgN5d2PMV](https://discord.gg/CWgN5d2PMV)
 
 ---
 
@@ -121,19 +121,19 @@ Join our Discord for updates:
 Follow us for updates, resources, and event announcements:
 
 💼 LinkedIn: 
-[https://linkedin.com/company/aruvili](#)
+[https://linkedin.com/company/aruvili](https://linkedin.com/company/aruvili)
 
 💻 GitHub: 
-[https://github.com/Aruvili](#)
+[https://github.com/Aruvili](https://github.com/Aruvili)
 
 ▶️ YouTube: 
-[https://youtube.com/@aruvili](#)
+[https://youtube.com/@aruvili](https://youtube.com/@aruvili)
 
 📸 Instagram: 
-[https://instagram.com/aruvili](#)
+[https://instagram.com/aruvili](https://instagram.com/aruvili)
 
 🐦 Twitter (X): 
-[https://x.com/aruvili](#)
+[https://x.com/aruvili](https://x.com/aruvili)
 
 ## 📜 License
 
