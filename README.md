@@ -120,11 +120,11 @@ Join our Discord for updates:
 
 Follow us for updates, resources, and event announcements:
 
-💼 LinkedIn: linkedin.com/company/aruvili
-💻 GitHub: github.com/Aruvili
-▶️ YouTube: youtube.com/@aruvili
-📸 Instagram: instagram.com/aruvili
-🐦 Twitter (X): x.com/aruvili
+💼 LinkedIn: [https://linkedin.com/company/aruvili](#)
+💻 GitHub: [https://github.com/Aruvili](#)
+▶️ YouTube: [https://youtube.com/@aruvili](#)
+📸 Instagram: [https://instagram.com/aruvili](#)
+🐦 Twitter (X): [https://x.com/aruvili](#)
 
 ## 📜 License
 
